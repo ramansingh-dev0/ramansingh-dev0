@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://i.gifer.com/JXA0.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansingh-dev0&label=Profile%20views&color=0e75b6&style=flat" alt="ramansingh-dev0" /> </p>
+<p align="left"> <img src=https://cdn.dribbble.com/users/4960/screenshots/2692737/dribfinal.gif </p>
 
 
 
